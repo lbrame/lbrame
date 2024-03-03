@@ -147,10 +147,6 @@ As for how I work, I love to dig into how and why things work and I always striv
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
     title="MATLAB"
     width="60" height="60" />
-<a href="https://www.mathworks.com/products/matlab.html"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
-    title="MATLAB"
-    width="60" height="60" />
 <a href="https://www.latex-project.org/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
     title="LaTeX"
