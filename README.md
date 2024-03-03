@@ -154,3 +154,11 @@ As for how I work, I love to dig into how and why things work and I always striv
 
 
 ... To build stuff that hopefully makes the world a bit better ;)
+
+
+## 🎨 Art credits
+
+* Thanks [Puzzoz](https://github.com/puzzoz) for drawing my cute profile picture :) (any artifacts are due to the AI upscale I ran on it and are not present in the original drawing.)
+* I know you noticed my cool header 👀. I used kyechan99's excellent [capsule-render](https://github.com/kyechan99/capsule-render) for it!
+* The cute shields up top were made with [shields.io](https://shields.io/)!
+* The nice vector icons just above are courtesy of [Devicons](https://devicon.dev/).
