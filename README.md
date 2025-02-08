@@ -20,22 +20,20 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-bram%C3%A8-b95aa22b6/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lbrame)
 
-# 💁 About Me
+# About Me
 
 I'm a Computer Science student at [Università di Verona](https://univr.it/) and your resident Linux enthusiast.
 
 As for how I work, I love to dig into how and why things work and I always strive to come up with proper and clean solutions. I highly value writing good documentation, use of best practices wherever possible, and doing it well to keep it maintainable.
 
-* 👨‍💻 I am currently working on **Moodie**, a mood-tracking application made in Flutter as part of an university project.
-* 🐧 I'm a passionate Linux user and I love **free and open source** software
-* 🐳 I'm highly interested in the **DevOps** field, which I am delving into with an homelab
-* 🦀 I am currently learning **Rust**, and I already love how easy it is to write correct and memory-safe software with it!
+* I'm a passionate Linux user and I love **free and open source** software
+* I'm highly interested in the **DevOps** field, and I am constantly learning
+* I am currently learning **Rust**, hoping to solve some interesting problems with it soon!
 
-# 💻 Tech I use
+# Tech I use
 
-## 🔨 Tools
+## Tools
 
-... What I use every day ...
 
 <a href="https://kernel.org/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
@@ -103,9 +101,8 @@ As for how I work, I love to dig into how and why things work and I always striv
     width="60" height="60" />
 
 
-## ⛏️ Languages
+## Languages
 
-... To write in these ...
 
 <a href="https://dart.dev/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
@@ -153,12 +150,10 @@ As for how I work, I love to dig into how and why things work and I always striv
     width="60" height="60" />
 
 
-... To build stuff that hopefully makes the world a bit better ;)
 
+## Art credits
 
-## 🎨 Art credits
-
-* Thanks [Puzzoz](https://github.com/puzzoz) for drawing my cute profile picture :) (any artifacts are due to the AI upscale I ran on it and are not present in the original drawing.)
-* I know you noticed my cool header 👀. I used kyechan99's excellent [capsule-render](https://github.com/kyechan99/capsule-render) for it!
-* The cute shields up top were made with [shields.io](https://shields.io/)!
-* The nice vector icons just above are courtesy of [Devicons](https://devicon.dev/).
+* Thanks [Puzzoz](https://github.com/puzzoz) for drawing my cute profile picture :)
+* The header is provided by [capsule-render](https://github.com/kyechan99/capsule-render) for it!
+* The shields are provided by [shields.io](https://shields.io/)!
+* All the icons used are from [Devicons](https://devicon.dev/).
