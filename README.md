@@ -24,16 +24,13 @@ Here are some ideas to get you started:
 
 I'm a Computer Science student at [Università di Verona](https://univr.it/) and your resident Linux enthusiast.
 
-As for how I work, I love to dig into how and why things work and I always strive to come up with proper and clean solutions. I highly value writing good documentation, use of best practices wherever possible, and doing it well to keep it maintainable.
+I love to dig into how and why things work and I always strive to come up with proper and clean solutions. I highly value writing good documentation, use of best practices wherever possible, and doing it well to keep it maintainable.
 
-* I'm a passionate Linux user and I love **free and open source** software
-* I'm highly interested in the **DevOps** field, and I am constantly learning
-* I am currently learning **Rust**, hoping to solve some interesting problems with it soon!
+I like **free software** and learning new things.
 
-# Tech I use
+# What I use
 
 ## Tools
-
 
 <a href="https://kernel.org/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
@@ -63,55 +60,22 @@ As for how I work, I love to dig into how and why things work and I always striv
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
     title="Neovim"
     width="60" height="60" />
-<a href="https://code.visualstudio.com/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    title="VS Code"
-    width="60" height="60" />
-<a href="https://www.jetbrains.com/idea/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  
-    title="IntelliJ"
-    width="60" height="60" />
-<a href="https://www.jetbrains.com/pycharm/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-    title="PyCharm"
-    width="60" height="60" />
-<a href="https://www.jetbrains.com/datagrip/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg"
-    title="DataGrip"
-    width="60" height="60" />
-<a href="https://www.jetbrains.com/clion/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"
-    title="CLion"
-    width="60" height="60" />
 <a href="https://cmake.org/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg"
     title="CMake"
-    width="60" height="60" />
-<a href="https://firefox.com/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg"
-    title="CMake"
-    width="60" height="60" />
-<a href="https://firebase.google.com/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
-    title="Firebase"
     width="60" height="60" />
 <a href="https://www.postgresql.org/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     title="PostgreSQL"
     width="60" height="60" />
+<a href="https://www.postgresql.org/"> <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg"
+    title="Elasticsearch"
+    width="60" height="60" />
 
 
 ## Languages
 
-
-<a href="https://dart.dev/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
-    title="Dart"
-    width="60" height="60" />
-<a href="https://fluter.dev/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-    title="Flutter"
-    width="60" height="60" />
 <a href="https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
     title="C"
@@ -120,17 +84,25 @@ As for how I work, I love to dig into how and why things work and I always striv
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
     title="C++"
     width="60" height="60" />
+<a href="https://go.dev/"> <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+    title="Go"
+    width="60" height="60" />
 <a href="https://www.gnu.org/software/bash/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
     title="Bash"
     width="60" height="60" />
+<a href="https://dart.dev/"> <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
+    title="Dart"
+    width="60" height="60" />
+<a href="https://flutrer.dev/"> <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+    title="Flutter"
+    width="60" height="60" />
 <a href="https://openjdk.org/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     title="Java"
-    width="60" height="60" />
-<a href="https://spring.io/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-    title="Spring"
     width="60" height="60" />
 <a href="https://python.org"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -151,9 +123,9 @@ As for how I work, I love to dig into how and why things work and I always striv
 
 
 
-## Art credits
+# Art credits
 
-* Thanks [Puzzoz](https://github.com/puzzoz) for drawing my cute profile picture :)
-* The header is provided by [capsule-render](https://github.com/kyechan99/capsule-render) for it!
-* The shields are provided by [shields.io](https://shields.io/)!
-* All the icons used are from [Devicons](https://devicon.dev/).
+* Credits to [Puzzoz](https://github.com/puzzoz) for my profile picture
+* The header is provided by [capsule-render](https://github.com/kyechan99/capsule-render) for it
+* The shields are provided by [shields.io](https://shields.io/)
+* All the icons used are from [Devicons](https://devicon.dev/)
