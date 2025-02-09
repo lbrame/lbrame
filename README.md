@@ -28,7 +28,7 @@ I love to dig into how and why things work and I always strive to come up with p
 
 I like **free software** and learning new things.
 
-Oh, also, I write articles about Linux and FOSS on [Libre News](https://blog.nicco.love/), and help create video content for [Nicco Loves Linux](https://www.youtube.com/@niccoloveslinux) in my downtime!
+Oh, also, I write articles about Linux and FOSS on [Libre News](https://blog.nicco.love/), and help create video content for [Nicco Loves Linux](https://www.youtube.com/@niccoloveslinux)!
 
 # What I use
 
