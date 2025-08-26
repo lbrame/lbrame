@@ -78,17 +78,22 @@ Oh, also, I write articles about Linux and FOSS on [Libre News](https://thelibre
 
 ## Languages
 
+
+<a href="https://rust-lang.org/"> <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+    title="Rust"
+    width="60" height="60" />
+<a href="https://openjdk.org/"> <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    title="Java"
+    width="60" height="60" />
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    title="C#"
+    width="60" height="60" />
 <a href="https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
     title="C"
-    width="60" height="60" />
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    title="C++"
-    width="60" height="60" />
-<a href="https://go.dev/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
-    title="Go"
     width="60" height="60" />
 <a href="https://www.gnu.org/software/bash/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
@@ -102,21 +107,9 @@ Oh, also, I write articles about Linux and FOSS on [Libre News](https://thelibre
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
     title="Flutter"
     width="60" height="60" />
-<a href="https://openjdk.org/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    title="Java"
-    width="60" height="60" />
 <a href="https://python.org"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     title="Python"
-    width="60" height="60" />
-<a href="https://rust-lang.org/"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
-    title="Rust"
-    width="60" height="60" />
-<a href="https://www.mathworks.com/products/matlab.html"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
-    title="MATLAB"
     width="60" height="60" />
 <a href="https://www.latex-project.org/"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
