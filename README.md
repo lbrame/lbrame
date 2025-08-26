@@ -88,7 +88,7 @@ Oh, also, I write articles about Linux and FOSS on [Libre News](https://thelibre
     title="Java"
     width="60" height="60" />
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     title="C#"
     width="60" height="60" />
 <a href="https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf"> <img
