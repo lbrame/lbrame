@@ -22,18 +22,13 @@ Here are some ideas to get you started:
 
 # About Me
 
-I'm a Computer Science student at [Università di Verona](https://univr.it/) and your resident Linux enthusiast.
+I'm a Computer Science Master's Degree student at [Università di Verona](https://univr.it/), professional Software Engineer and Linux enthusiast.
 
-I love to dig into how and why things work and I always strive to come up with proper and clean solutions. I highly value writing good documentation, use of best practices wherever possible, and doing it well to keep it maintainable.
-
-I like **free software** and learning new things.
-
-Oh, also, I write articles about Linux and FOSS on [Libre News](https://thelibre.news/), and help create video content for [Nicco Loves Linux](https://www.youtube.com/@niccoloveslinux)!
+As a hobby, I also write articles covering Linux and FOSS on [Libre News](https://thelibre.news/), and help create video content for [Nicco Loves Linux](https://www.youtube.com/@niccoloveslinux)!
 
 
 # Art credits
 
 * Credits to [Puzzoz](https://github.com/puzzoz) for my profile picture
 * The header is provided by [capsule-render](https://github.com/kyechan99/capsule-render) for it
-* The shields are provided by [shields.io](https://shields.io/)
-* All the icons used are from [Devicons](https://devicon.dev/)
+* The shields are provided by [shields.io](https://shields.io)
